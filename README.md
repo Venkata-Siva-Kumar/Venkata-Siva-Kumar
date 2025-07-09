@@ -4,7 +4,7 @@
 - 🎓 B.Tech CSE Student @ SASTRA Deemed University (2027)
 - 🔧 Passionate about mobile development, backend systems, and real-world problem solving.
 - 📱 Currently building a full-stack E-commerce app using React Native, Node.js, MySQL.
-- 💬 Ask me about: React Native, Firebase Auth, WhatsApp OTP, MySQL, Node.js
+- 💬 Ask me about: React Native, WhatsApp OTP, MySQL, Node.js
 
 ### 🛠 Tech Stack
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
@@ -16,12 +16,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&layout=compact&theme=radical)
 
 ### 🚀 Current Projects
-- 🛒 **Kirana Shop App** – A React Native-based grocery delivery app with WhatsApp OTP, address management & full backend.
-- 🛠 Learning advanced Firebase integrations and RESTful API development.
+- 🛒 **Ecommerce Mobile Application** – A React Native-based grocery delivery app with WhatsApp OTP, address management & full backend.
+- 🛠 Learning advanced RESTful API development.
 
 ### 📫 Contact Me
 - 📧 mariyalasivakumar@gmail.com

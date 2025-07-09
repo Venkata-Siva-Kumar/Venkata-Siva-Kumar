@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mariyala Venkata Siva Kumar 👋</h1>
+<h1 align="center">Hi, I'm Venkata Siva Kumar Mariyala👋</h1>
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE Student @ SASTRA Deemed University (2027)

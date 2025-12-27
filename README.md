@@ -27,9 +27,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Venkata-Siva-Kumar's GitHub Stats" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&layout=compact&theme=radical)
 
 ### 🚀 Current Projects

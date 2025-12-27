@@ -32,6 +32,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Venkata-Siva-Kumar&limit=5&theme=react&combine_all_yearly_contributions=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&layout=compact&theme=radical)
 
 ### 🚀 Current Projects

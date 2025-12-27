@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Venkata Siva Kumar Mariyala👋</h1>
 
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"
+       width="300px" align="right" alt="Coder GIF"/>
+</div>
+
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE Student @ SASTRA Deemed University (2027)
 - 🔧 Passionate about mobile development, backend systems, and real-world problem solving.

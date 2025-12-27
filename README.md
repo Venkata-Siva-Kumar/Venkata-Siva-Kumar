@@ -29,6 +29,7 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Venkata-Siva-Kumar&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Venkata-Siva-Kumar's GitHub Stats" />
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&layout=compact&theme=radical)
 
 ### 🚀 Current Projects

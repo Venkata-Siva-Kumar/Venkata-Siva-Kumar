@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
-       width="35px"/>Hi, I'm <strong> Venkata Siva Kumar Mariyala👋 </strong>
-  <img align="right" src="https://komarev.com/ghpvc/?username=Abishekus01&color=yellow" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" />
+Hi, I'm <strong> Venkata Siva Kumar Mariyala </strong>
+  <img align="right" src="https://komarev.com/ghpvc/?username=Venkata-Siva-Kumar&color=yellow" />
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"
        width="300px" align="right" alt="Coder GIF"/>

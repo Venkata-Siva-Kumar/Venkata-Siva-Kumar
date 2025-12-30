@@ -1,5 +1,4 @@
 <h1 align="center"> Hi, I'm <strong> Venkata Siva Kumar Mariyala </strong> </h1>
-<img align="right" src="https://komarev.com/ghpvc/?username=Venkata-Siva-Kumar&color=yellow" />
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698"

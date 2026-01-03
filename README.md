@@ -8,8 +8,6 @@
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE Student @ SASTRA Deemed University (2027)
 - 🔧 Passionate about mobile development, backend systems, and real-world problem solving.
-- 📱 Currently building a full-stack E-commerce app using React Native, Node.js, MySQL.
-- 💬 Ask me about: React Native, WhatsApp OTP, MySQL, Node.js
 
 ### 🛠️ Tech Stack
 

@@ -35,7 +35,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Venkata-Siva-Kumar&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ### 🚀 Current Projects
-- 🛒 **Ecommerce Mobile Application** – A React Native-based grocery delivery app with WhatsApp OTP, address management & full backend.
+- 🛒 **Ecommerce Android Application**
+      SG Store is a mobile application designed to simplify local grocery shopping by allowing customers to browse products, place orders, and manage deliveries seamlessly.
+      The app features secure OTP-based login using WhatsApp integration for quick and reliable authentication.
+      It supports real-time order management, address selection, and smooth checkout for an efficient shopping experience.
 - 🛠 Learning advanced RESTful API development.
 
 ### 📫 Contact Me

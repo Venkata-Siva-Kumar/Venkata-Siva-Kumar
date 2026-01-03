@@ -37,7 +37,6 @@
       SG Store is a mobile application designed to simplify local grocery shopping by allowing customers to browse products, place orders, and manage deliveries seamlessly.
       The app features secure OTP-based login using WhatsApp integration for quick and reliable authentication.
       It supports real-time order management, address selection, and smooth checkout for an efficient shopping experience.
-- 🛠 Learning advanced RESTful API development.
 
 ### 📫 Contact Me
 - 📧 mariyalasivakumar@gmail.com

@@ -37,4 +37,4 @@
 
 ### 📫 Contact Me
 - 📧 mariyalasivakumar@gmail.com
-- 📍 Andhra Pradesh, India
+- 📍 Prakasam, Andhra Pradesh, India

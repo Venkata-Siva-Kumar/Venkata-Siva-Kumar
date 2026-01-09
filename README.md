@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 B.Tech CSE Student @ SASTRA Deemed University (2027)
-- 🔧 Passionate about mobile development, backend systems, and real-world problem solving.
+- 🔧 Passionate about App development, backend systems, and real-world problem solving.
 
 ### 🛠️ Tech Stack
 

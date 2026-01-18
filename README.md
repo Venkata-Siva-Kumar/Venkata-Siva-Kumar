@@ -29,7 +29,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Siva-Kumar&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 Current Projects
+### 🚀 Projects
 - 🛒 **Ecommerce Android Application**
       SG Store is a mobile application designed to simplify local grocery shopping by allowing customers to browse products, place orders, and manage deliveries seamlessly.
       The app features secure OTP-based login using WhatsApp integration for quick and reliable authentication.
